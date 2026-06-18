@@ -1,0 +1,6 @@
+{
+  "name": "Skin Cancer Classification Web App",
+  "description": "A web application that leverages a custom TensorFlow Lite classification model for medical image classification of skin lesions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
